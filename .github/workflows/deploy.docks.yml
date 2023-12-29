@@ -24,7 +24,8 @@ jobs:
       - run: npm run build  
         env:
           TURBO_TOKEN: Ja2ZJyGQQKiG6iOBHM6ZfUT3
-
+          TURBO_TAEMS: rocketseat
+          
       - name: Deploy storybook
         working-directory: ./packages/docs
         run: touch storybook-static/.nojekyll && npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
