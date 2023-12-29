@@ -1,0 +1,41 @@
+{
+  "name": "@advfw-ui/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy-storybook": "storybook-to-ghpages",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "storybook dev -p 6006",
+    "build": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.6.6",
+    "@storybook/addon-interactions": "^7.6.6",
+    "@storybook/addon-links": "^7.6.6",
+    "@storybook/addon-onboarding": "^1.0.10",
+    "@storybook/blocks": "^7.6.6",
+    "@storybook/react": "^7.6.6",
+    "@storybook/react-vite": "^7.6.6",
+    "@storybook/storybook-deployer": "^2.8.16",
+    "@storybook/test": "^7.6.6",
+    "@vitejs/plugin-react": "^4.2.1",
+    "prop-types": "^15.8.1",
+    "storybook": "^7.6.6",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "@advfw-ui/eslint-config": "*",
+    "@advfw-ui/react": "*",
+    "@advfw-ui/tokens": "*",
+    "@advfw-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^7.6.6",
+    "phosphor-react": "^1.4.1",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

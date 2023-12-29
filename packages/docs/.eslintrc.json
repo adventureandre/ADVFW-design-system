@@ -1,0 +1,3 @@
+{
+  "extends": "@advfw-ui/eslint-config"
+}
