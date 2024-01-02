@@ -42,12 +42,13 @@ export const colors = {
   yellow900: '#F57F17',
 
   // Green
-  green100: '#EAFAF9',
-  green200: '#DEEBF7',
-  green400: '#B2DFBD',
-  green500: '#8BC34A', // Primary green
-  green600: '#7CB342',
-  green700: '#689F38',
-  green800: '#558B2F',
-  green900: '#33691E',
+  green100: '#CAF9E6',
+  green200: '#96F2CE',
+  green300: '#00B37E',
+  green400: '#009B6B',
+  green500: '#00875F',
+  green600: '#006E4C',
+  green700: '#015F43',
+  green800: '#004A30',
+  green900: '#00291D',
 }
