@@ -13,8 +13,6 @@ const colors = {
   gray800: '#202024',
   gray900: '#121214',
 
-  
-
   // Blues
   blue100: '#E3F2FD',
   blue200: '#BBDEFB',
