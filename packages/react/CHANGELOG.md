@@ -1,5 +1,11 @@
 # @advfw-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Add new color variants
+
 ## 2.0.1
 
 ### Patch Changes
