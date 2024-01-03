@@ -1,5 +1,11 @@
 # @advfw-ui/tokens
 
+## 1.2.2
+
+### Patch Changes
+
+- fix tokens colors
+
 ## 1.2.1
 
 ### Patch Changes

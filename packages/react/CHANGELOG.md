@@ -1,5 +1,11 @@
 # @advfw-ui/react
 
+## 2.0.3
+
+### Patch Changes
+
+- fix tokens colors
+
 ## 2.0.2
 
 ### Patch Changes
