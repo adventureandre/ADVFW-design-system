@@ -1,5 +1,11 @@
 # @advfw-ui/react
 
+## 2.0.4
+
+### Patch Changes
+
+- Fix disabled buttom
+
 ## 2.0.3
 
 ### Patch Changes
