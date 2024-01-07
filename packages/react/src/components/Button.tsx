@@ -43,7 +43,7 @@ export const Button = styled('button', {
         },
 
         '&:disabled': {
-          backgroundColor: '$$gray200',
+          backgroundColor: '$gray200',
         },
       },
 
