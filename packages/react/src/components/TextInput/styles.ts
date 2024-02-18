@@ -44,6 +44,17 @@ export const Input = styled('input', {
   border: 0,
   width: '100%',
 
+  variants: {
+    size: {
+      sm: {
+        fontSize: '$sm',
+      },
+      md: {
+        fontSize: '$md',
+      },
+    },
+  },
+
   '&:focus': {
     outline: 0,
   },
@@ -52,5 +63,9 @@ export const Input = styled('input', {
   },
   '&::placeholder': {
     color: '$gray400',
+  },
+
+  defaultVariants: {
+    size: 'md',
   },
 })
